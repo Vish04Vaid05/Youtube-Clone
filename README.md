@@ -35,20 +35,14 @@ flowchart TD
 
 ## Chapters
 
-1. [Main View Components
-](01_main_view_components_.md)
-2. [Navigation & Search Controls
-](02_navigation___search_controls_.md)
-3. [Routing System
-](03_routing_system_.md)
-4. [Content Display Cards
-](04_content_display_cards_.md)
-5. [Content List Renderer
-](05_content_list_renderer_.md)
-6. [Data Fetching Utility
-](06_data_fetching_utility_.md)
-7. [Application Constants
-](07_application_constants_.md)
+
+1. [Chapter 1: Main View Components](#chapter-1-main-view-components)
+2. [Chapter 2: Navigation & Search Controls](#chapter-2-navigation--search-controls)
+3. [Chapter 3: Routing System](#chapter-3-routing-system)
+4. [Chapter 4: Content Display Cards](#chapter-4-content-display-cards)
+5. [Chapter 5: Content List Renderer](#chapter-5-content-list-renderer)
+6. [Chapter 6: Data Fetching Utility](#chapter-6-data-fetching-utility)
+7. [Chapter 7: Application Constants](#chapter-7-application-constants)
 
 ---
 
